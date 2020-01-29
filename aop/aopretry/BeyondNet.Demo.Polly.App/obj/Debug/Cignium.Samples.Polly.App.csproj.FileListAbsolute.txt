@@ -1,0 +1,13 @@
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Cignium.Samples.Polly.App.exe.config
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Cignium.Samples.Polly.App.exe
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Cignium.Samples.Polly.App.pdb
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Polly.dll
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Polly.pdb
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Polly.xml
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\obj\Debug\Cignium.Samples.Polly.App.exe
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\obj\Debug\Cignium.Samples.Polly.App.pdb
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\System.Web.Http.dll
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\System.Net.Http.Formatting.dll
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\Newtonsoft.Json.dll
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\System.Web.Http.xml
+E:\2. Fuentes\7. Samples\Cignium.Samples.Polly\Cignium.Samples.Polly\Cignium.Samples.Polly.App\bin\Debug\System.Net.Http.Formatting.xml

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BeyondNet.Demo.Jal.Library</RootNamespace>
+    <AssemblyName>BeyondNet.Demo.Jal.Library</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Dapper, Version=1.50.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Dapper.1.50.4\lib\net451\Dapper.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Factory, Version=1.0.16.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Factory.1.0.16\lib\net40\Jal.Factory.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Factory.LightInject.Installer, Version=1.0.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Factory.LightInject.Installer.1.0.1\lib\net45\Jal.Factory.LightInject.Installer.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Finder, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Finder.1.0.2\lib\net40\Jal.Finder.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Locator, Version=1.0.6.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Locator.1.0.6.0\lib\net40\Jal.Locator.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Locator.LightInject, Version=1.0.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Locator.LightInject.1.0.2\lib\net45\Jal.Locator.LightInject.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Monads, Version=1.0.16.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Monads.1.0.16.0\lib\net45\Jal.Monads.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Settings, Version=1.0.5.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Settings.1.0.5\lib\net40\Jal.Settings.dll</HintPath>
+    </Reference>
+    <Reference Include="Jal.Settings.LightInject.Installer, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Jal.Settings.LightInject.Installer.1.0.0\lib\net45\Jal.Settings.LightInject.Installer.dll</HintPath>
+    </Reference>
+    <Reference Include="LightInject, Version=4.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\LightInject.4.1.0\lib\net45\LightInject.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CompositionRoot.cs" />
+    <Compile Include="Extensions\TypesExtension.cs" />
+    <Compile Include="Helper\FileManager.cs" />
+    <Compile Include="Helper\IFileManager.cs" />
+    <Compile Include="Impl\Factories\ILoggerFactory.cs" />
+    <Compile Include="Impl\Factories\LoggerFactory.cs" />
+    <Compile Include="Impl\Formatters\JsonFormatter.cs" />
+    <Compile Include="Impl\Formatters\NullFormatter.cs" />
+    <Compile Include="Impl\Formatters\SimpleFormatter.cs" />
+    <Compile Include="Impl\DataAccess\SqlLogRepository.cs" />
+    <Compile Include="Impl\Loggers\AbstractLogger.cs" />
+    <Compile Include="Interface\IFormatter.cs" />
+    <Compile Include="Interface\IRepository.cs" />
+    <Compile Include="Impl\Loggers\ConsoleLogger.cs" />
+    <Compile Include="Impl\Loggers\DatabaseLogger.cs" />
+    <Compile Include="Impl\Loggers\FileLogger.cs" />
+    <Compile Include="Interface\ILogger.cs" />
+    <Compile Include="Model\LoggerType.cs" />
+    <Compile Include="Model\LogLevel.cs" />
+    <Compile Include="Model\LogMessage.cs" />
+    <Compile Include="Impl\Factories\ObjectFactoryConfigurationSource.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,11 @@
+E:\1. Personal\BeyondNet\BeyondNet.Demo.Jal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.csproj.CoreCompileInputs.cache
+E:\1. Personal\BeyondNet\BeyondNet.Demo.Jal\BeyondNet.Demo.Jal.DbMock\bin\Debug\BeyondNet.Demo.Jal.DbMock.dll
+E:\1. Personal\BeyondNet\BeyondNet.Demo.Jal\BeyondNet.Demo.Jal.DbMock\bin\Debug\BeyondNet.Demo.Jal.DbMock.pdb
+E:\1. Personal\BeyondNet\BeyondNet.Demo.Jal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.dll
+E:\1. Personal\BeyondNet\BeyondNet.Demo.Jal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\bin\Debug\BeyondNet.Demo.Jal.DbMock.dll
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\bin\Debug\BeyondNet.Demo.Jal.DbMock.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.csprojAssemblyReference.cache
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.dll
+E:\1. Personal\Fuentes\TechnicalSamples\aopjal\BeyondNet.Demo.Jal.DbMock\obj\Debug\BeyondNet.Demo.Jal.DbMock.pdb

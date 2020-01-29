@@ -1,0 +1,14 @@
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\BeyondNet.Demo.Quartz.TopShelf.exe.config
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\BeyondNet.Demo.Quartz.TopShelf.exe
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\BeyondNet.Demo.Quartz.TopShelf.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\NLog.dll
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\Topshelf.dll
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\Topshelf.NLog.dll
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\NLog.xml
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\Topshelf.xml
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\bin\Debug\Topshelf.NLog.xml
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\obj\Debug\BeyondNet.Demo.Quartz.TopShelf.csprojAssemblyReference.cache
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\obj\Debug\BeyondNet.Demo.Quartz.TopShelf.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\obj\Debug\BeyondNet.Demo.Quartz.TopShelf.csproj.CopyComplete
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\obj\Debug\BeyondNet.Demo.Quartz.TopShelf.exe
+E:\1. Personal\Fuentes\TechnicalSamples\batchquartz\BeyondNet.Demo.Quartz.TopShelf\obj\Debug\BeyondNet.Demo.Quartz.TopShelf.pdb

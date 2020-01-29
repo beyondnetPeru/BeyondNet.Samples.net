@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondNet.Demo.Jal.AppConsole", "BeyondNet.Demo.Jal.AppConsole\BeyondNet.Demo.Jal.AppConsole.csproj", "{17A846C1-CBEC-4448-BF83-98BBBD8C5617}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondNet.Demo.Jal.DbMock", "BeyondNet.Demo.Jal.DbMock\BeyondNet.Demo.Jal.DbMock.csproj", "{358EFF00-3655-4269-AB8E-B662AE6A787B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondNet.Demo.Jal.Library", "BeyondNet.Demo.Jal.Library\BeyondNet.Demo.Jal.Library.csproj", "{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeyondNet.Demo.Jal.Test", "BeyondNet.Demo.Jal.Test\BeyondNet.Demo.Jal.Test.csproj", "{2638385B-906D-49A9-A57B-D0092DCDC628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17A846C1-CBEC-4448-BF83-98BBBD8C5617}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A846C1-CBEC-4448-BF83-98BBBD8C5617}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A846C1-CBEC-4448-BF83-98BBBD8C5617}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A846C1-CBEC-4448-BF83-98BBBD8C5617}.Release|Any CPU.Build.0 = Release|Any CPU
+		{358EFF00-3655-4269-AB8E-B662AE6A787B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{358EFF00-3655-4269-AB8E-B662AE6A787B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{358EFF00-3655-4269-AB8E-B662AE6A787B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{358EFF00-3655-4269-AB8E-B662AE6A787B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AF34337-3C13-45C3-B93E-2F2D048FBC0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2638385B-906D-49A9-A57B-D0092DCDC628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2638385B-906D-49A9-A57B-D0092DCDC628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2638385B-906D-49A9-A57B-D0092DCDC628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2638385B-906D-49A9-A57B-D0092DCDC628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B65FCFCD-24AF-4528-8849-FB3D2FB46AC0}
+	EndGlobalSection
+EndGlobal

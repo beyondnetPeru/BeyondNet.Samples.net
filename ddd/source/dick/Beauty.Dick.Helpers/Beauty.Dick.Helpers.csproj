@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Extensions\**" />
+    <Compile Remove="Providers\**" />
+    <EmbeddedResource Remove="Extensions\**" />
+    <EmbeddedResource Remove="Providers\**" />
+    <None Remove="Extensions\**" />
+    <None Remove="Providers\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Common.Logging" Version="3.4.1" />
+    <PackageReference Include="FluentValidation" Version="8.1.2" />
+    <PackageReference Include="Jal.Factory" Version="1.1.1" />
+    <PackageReference Include="Jal.Factory.LightInject.Installer" Version="1.1.1" />
+    <PackageReference Include="Jal.Monads" Version="1.1.2" />
+    <PackageReference Include="MongoDB.Bson" Version="2.7.3" />
+    <PackageReference Include="MongoDB.Driver" Version="2.7.3" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.7.3" />
+    <PackageReference Include="MongoDB.Driver.GridFS" Version="2.7.3" />
+    <PackageReference Include="Serilog" Version="2.7.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Domain\Interface\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Beauty.Dick.Domain">
+      <HintPath>..\Beauty.Dick.Domain\bin\Debug\netstandard2.0\Beauty.Dick.Domain.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

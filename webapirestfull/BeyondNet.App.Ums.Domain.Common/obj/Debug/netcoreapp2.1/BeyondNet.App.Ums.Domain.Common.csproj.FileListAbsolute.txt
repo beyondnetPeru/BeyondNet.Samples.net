@@ -1,0 +1,17 @@
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.deps.json
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.dll
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.csproj.CoreCompileInputs.cache
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.AssemblyInfoInputs.cache
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.AssemblyInfo.cs
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.pdb
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.dll
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.pdb
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.csprojAssemblyReference.cache
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.deps.json
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.dll
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.AssemblyInfoInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.AssemblyInfo.cs
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.dll
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Domain.Common\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Domain.Common.pdb

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="7.0.1" />
+    <PackageReference Include="FluentValidation" Version="8.0.100" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BeyondNet.App.Ums.Domain.Common\BeyondNet.App.Ums.Domain.Common.csproj" />
+    <ProjectReference Include="..\BeyondNet.App.Ums.Globalization\BeyondNet.App.Ums.Globalization.csproj" />
+    <ProjectReference Include="..\BeyondNet.App.Ums.Helpers\BeyondNet.App.Ums.Helpers.csproj" />
+  </ItemGroup>
+
+</Project>

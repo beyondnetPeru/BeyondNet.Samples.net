@@ -1,0 +1,50 @@
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.exe.config
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.exe
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Bootstrapper.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Bootstrapper.LightInject.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.csprojResolveAssemblyReference.cache
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.csproj.CoreCompileInputs.cache
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.exe
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Factory.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Factory.LightInject.Installer.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Finder.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Locator.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Locator.LightInject.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Settings.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Settings.LightInject.Installer.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Database\logdb.mdf
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Database\logdb_log.ldf
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.exe.config
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.exe
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.AppConsole.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Bootstrapper.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Bootstrapper.LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Factory.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Factory.LightInject.Installer.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Finder.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Locator.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Locator.LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Settings.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Settings.LightInject.Installer.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Dapper.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LogLibrary.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\LightInject.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Dapper.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.csprojResolveAssemblyReference.cache
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.exe
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\obj\Debug\LogLibrary.AppConsole.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Jal.Monads.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Newtonsoft.Json.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\Newtonsoft.Json.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\FluentValidation.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.AppConsole\bin\Debug\FluentValidation.xml

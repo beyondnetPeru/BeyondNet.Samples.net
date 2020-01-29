@@ -1,0 +1,46 @@
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.Test.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.Test.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Castle.Core.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Moq.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\nunit.framework.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Shouldly.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\System.ValueTuple.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Castle.Core.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Moq.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\Moq.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\nunit.framework.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.csproj.CoreCompileInputs.cache
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.Test.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.Test.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Castle.Core.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Moq.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\nunit.framework.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Shouldly.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\System.ValueTuple.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Castle.Core.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Moq.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Moq.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\nunit.framework.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.csprojResolveAssemblyReference.cache
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\obj\Debug\LogLibrary.Test.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Jal.Monads.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Jal.Finder.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Jal.Settings.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Jal.Factory.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Dapper.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Newtonsoft.Json.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Jal.Locator.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LogLibrary.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LightInject.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\LightInject.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Dapper.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Test\bin\Debug\Newtonsoft.Json.xml

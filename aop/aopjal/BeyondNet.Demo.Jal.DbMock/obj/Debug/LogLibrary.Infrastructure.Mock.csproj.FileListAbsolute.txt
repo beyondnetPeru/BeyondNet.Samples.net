@@ -1,0 +1,10 @@
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Infrastructure.Mock\bin\Debug\LogLibrary.Infrastructure.Mock.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Infrastructure.Mock\bin\Debug\LogLibrary.Infrastructure.Mock.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.csproj.CoreCompileInputs.cache
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Infrastructure.Mock\bin\Debug\LogLibrary.Infrastructure.Mock.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Infrastructure.Mock\bin\Debug\LogLibrary.Infrastructure.Mock.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary.Infrastructure.Mock\obj\Debug\LogLibrary.Infrastructure.Mock.pdb

@@ -1,0 +1,16 @@
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.deps.json
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.dll
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.csproj.CoreCompileInputs.cache
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.AssemblyInfoInputs.cache
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.AssemblyInfo.cs
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.pdb
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.dll
+E:\1. Personal\BeyondNet\Ums\sources\server\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.dll
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.deps.json
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.dll
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\bin\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.pdb
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.csproj.CoreCompileInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.AssemblyInfoInputs.cache
+E:\1. Personal\Fuentes\TechnicalSamples\webapirestfull\BeyondNet.App.Ums.Helpers\obj\Debug\netcoreapp2.1\BeyondNet.App.Ums.Helpers.AssemblyInfo.cs

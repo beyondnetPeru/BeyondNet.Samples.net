@@ -1,0 +1,31 @@
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\LogLibrary.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\LogLibrary.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\Jal.Monads.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\LightInject.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\LightInject.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\LightInject.xml
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\obj\Debug\LogLibrary.csproj.CoreCompileInputs.cache
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\obj\Debug\LogLibrary.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\obj\Debug\LogLibrary.pdb
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\bin\Debug\Jal.Finder.dll
+D:\Personal\Fuentes\tests\LogLibrary\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\LogLibrary.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\LogLibrary.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Dapper.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Finder.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Monads.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Settings.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Settings.LightInject.Installer.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Dapper.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\LightInject.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\LightInject.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\obj\Debug\LogLibrary.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\obj\Debug\LogLibrary.pdb
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Factory.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Factory.LightInject.Installer.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Locator.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Jal.Locator.LightInject.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\1. Personal\Fuentes\Logger\LogLibrary\LogLibrary\obj\Debug\LogLibrary.csprojResolveAssemblyReference.cache

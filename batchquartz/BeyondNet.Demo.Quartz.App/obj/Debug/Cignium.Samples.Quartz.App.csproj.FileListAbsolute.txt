@@ -1,0 +1,15 @@
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Cignium.Samples.Quartz.App.exe.config
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Cignium.Samples.Quartz.App.exe
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Cignium.Samples.Quartz.App.pdb
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.Core.dll
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.dll
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Quartz.dll
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.pdb
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.xml
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.Core.pdb
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Common.Logging.Core.xml
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Quartz.pdb
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\bin\Debug\Quartz.xml
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\obj\Debug\Cignium.Samples.Quartz.App.csprojResolveAssemblyReference.cache
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\obj\Debug\Cignium.Samples.Quartz.App.exe
+E:\2. Fuentes\0. Samples\Cignium.Quartz\Cignium.Samples.Quartz\Cignium.Samples.Quartz.App\obj\Debug\Cignium.Samples.Quartz.App.pdb

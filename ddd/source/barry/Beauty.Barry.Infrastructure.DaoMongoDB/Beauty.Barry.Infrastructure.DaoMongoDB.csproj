@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jal.Monads" Version="1.1.2" />
+    <PackageReference Include="mongocsharpdriver" Version="2.7.2" />
+    <PackageReference Include="MongoDB.Bson" Version="2.7.2" />
+    <PackageReference Include="MongoDB.Driver" Version="2.7.2" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.7.2" />
+    <PackageReference Include="MongoDB.Driver.GridFS" Version="2.7.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Beauty.Barry.Domain\Beauty.Barry.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Beauty.Dick.Domain">
+      <HintPath>..\..\dick\Beauty.Dick.Helpers\bin\Debug\netstandard2.0\Beauty.Dick.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Beauty.Dick.Helpers">
+      <HintPath>..\..\dick\Beauty.Dick.Helpers\bin\Debug\netstandard2.0\Beauty.Dick.Helpers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

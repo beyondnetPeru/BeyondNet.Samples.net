@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Beauty.Barry.Domain\Beauty.Barry.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Beauty.Dick.Domain">
+      <HintPath>..\..\dick\Beauty.Dick.Helpers\bin\Debug\netstandard2.0\Beauty.Dick.Domain.dll</HintPath>
+    </Reference>
+    <Reference Include="Beauty.Dick.Helpers">
+      <HintPath>..\..\dick\Beauty.Dick.Helpers\bin\Debug\netstandard2.0\Beauty.Dick.Helpers.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
