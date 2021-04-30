@@ -1,0 +1,15 @@
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Library.deps.json
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Library.dll
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Library.pdb
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Model.dll
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Model.pdb
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.csprojAssemblyReference.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.AssemblyInfoInputs.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.AssemblyInfo.cs
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.csproj.CopyComplete
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.dll
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.pdb
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Library.runtimeconfig.json
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\bin\Debug\netcoreapp3.1\NotifyServer.Library.runtimeconfig.dev.json
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.csproj.CoreCompileInputs.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Library\obj\Debug\netcoreapp3.1\NotifyServer.Library.genruntimeconfig.cache

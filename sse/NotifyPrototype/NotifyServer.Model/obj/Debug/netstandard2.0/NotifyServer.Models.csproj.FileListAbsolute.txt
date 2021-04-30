@@ -1,0 +1,9 @@
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\bin\Debug\netstandard2.0\NotifyServer.Models.deps.json
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\bin\Debug\netstandard2.0\NotifyServer.Models.dll
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\bin\Debug\netstandard2.0\NotifyServer.Models.pdb
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.csprojAssemblyReference.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.AssemblyInfoInputs.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.AssemblyInfo.cs
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.csproj.CoreCompileInputs.cache
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.dll
+C:\Personal\beyondnetcode\signalcore-net\NotifyPrototype\NotifyServer.Models\obj\Debug\netstandard2.0\NotifyServer.Models.pdb

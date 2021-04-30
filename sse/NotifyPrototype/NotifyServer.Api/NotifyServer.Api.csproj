@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jal.Bootstrapper" Version="2.0.0" />
+    <PackageReference Include="Jal.Bootstrapper.LightInject" Version="2.0.0" />
+    <PackageReference Include="Jal.Locator" Version="2.0.0" />
+    <PackageReference Include="Jal.Locator.LightInject" Version="2.2.1" />
+    <PackageReference Include="Jal.Settings" Version="2.0.0" />
+    <PackageReference Include="Jal.Settings.Configuration" Version="2.0.0" />
+    <PackageReference Include="Jal.Settings.Configuration.LightInject.Installer" Version="2.0.0" />
+    <PackageReference Include="Jal.Settings.Configuration.Microsoft.Extensions.DependencyInjection.Installer" Version="2.0.0" />
+    <PackageReference Include="LightInject.Microsoft.DependencyInjection" Version="3.3.6" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotifyServer.Library\NotifyServer.Library.csproj" />
+    <ProjectReference Include="..\NotifyServer.Model\NotifyServer.Model.csproj" />
+  </ItemGroup>
+
+
+</Project>

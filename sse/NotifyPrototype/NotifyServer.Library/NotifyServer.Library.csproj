@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jal.Factory" Version="2.1.1" />
+    <PackageReference Include="Jal.Factory.LightInject.Installer" Version="2.4.1" />
+    <PackageReference Include="Jal.Factory.Microsoft.Extensions.DependencyInjection.Installer" Version="2.4.1" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NotifyServer.Model\NotifyServer.Model.csproj" />
+  </ItemGroup>
+
+</Project>
